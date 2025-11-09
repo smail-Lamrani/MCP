@@ -1,4 +1,3 @@
-gradio
+json 
+gradio[mcp]
 textblob
-json
-gradio[mcp] 
