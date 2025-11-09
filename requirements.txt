@@ -1,0 +1,4 @@
+gradio
+textblob
+json
+gradio[mcp] 
